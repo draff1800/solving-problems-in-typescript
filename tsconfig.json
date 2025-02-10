@@ -27,4 +27,4 @@
 
   // Only transpile ./src
   "include": ["src/**/*"],
-  }
+}
